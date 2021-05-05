@@ -1,3 +1,2 @@
 # SpaceGame
-Matruritny projekt
 
